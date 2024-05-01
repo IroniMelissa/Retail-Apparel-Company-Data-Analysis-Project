@@ -8,4 +8,4 @@ This project is based on a dataset which belongs to Retails Apparel Company , wh
 ### What Includes here?
 - Data pre-processing file (Data pre-processing.ipynb)
 - Dashboard(pdf version)
-- Slide Desck (pdf version): to undersatnd Insights & Recommendations
+- Slide Deck (pdf version): to undersatnd Insights & Recommendations
