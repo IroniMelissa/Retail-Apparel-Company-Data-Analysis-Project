@@ -9,3 +9,8 @@ This project is based on a dataset which belongs to Retails Apparel Company , wh
 - Data pre-processing file (Data pre-processing.ipynb)
 - Dashboard(pdf version)
 - Slide Deck (pdf version): to undersatnd Insights & Recommendations
+
+![Screenshot 2024-05-01 192558](https://github.com/IroniMelissa/Retail-Apparel-Company-Data-Analysis-Project/assets/86164677/e9dc9aff-a3d4-4d1a-bb4a-ab9dbcfa8878)
+
+
+![Screenshot 2024-05-01 192349](https://github.com/IroniMelissa/Retail-Apparel-Company-Data-Analysis-Project/assets/86164677/877332bb-aab1-440f-97ee-780f6d69a3bb)
